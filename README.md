@@ -3,7 +3,9 @@ reversi-y
 
 ・先手のときの最初の1手はランダム打ち(ロマン)
 
-Boardの評価はhttp://uguisu.skr.jp/othello/5-1.htmlの2枚目の画像そのまま
+Boardの評価は
+http://uguisu.skr.jp/othello/5-1.html
+2枚目の画像より
 
 ・序盤：石の数15未満
 一つ打ってから、Boardの評価値+(-1)*相手の打てる場所の数
